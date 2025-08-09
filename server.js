@@ -10,5 +10,7 @@ db.once('open', () => console.log('Connected to database'))
 
 app.use(express.json())
 
+const subsc
+
 app.listen(3000, () => 
     console.log("Server started"))
